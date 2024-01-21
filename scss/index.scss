@@ -1,5 +1,13 @@
+// GENERAL STYLES
+
+@import '00-reset.scss';
 @import '01-variables.scss';
 @import '02-typography.scss';
 @import '03-layout.scss';
 @import '04-elements.scss';
 @import '05-main.scss';
+
+// PARTS
+
+@import './parts/01-header.scss';
+@import './parts/02-hero.scss';
